@@ -162,6 +162,7 @@ html {
 
 .bottom-navbar{
     display: none;
+    z-index:999;
 }
 
 @media (max-width:991px){
